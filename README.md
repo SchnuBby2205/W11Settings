@@ -1,0 +1,19 @@
+# W11Settings
+- Install W11
+- Install all Updates
+- Install Git Desktop
+- Clone https://github.com/Sycnex/Windows10Debloater
+- Debloat Win11
+- Taskbar Settings:
+- Download https://github.com/SchnuBby2205/DotFiles/tree/main/usr/share/backgrounds -> into Bilder
+- Download Firefox
+- Download VSCode -> Default App txt
+- Donwload PowerToys (MSStore)
+- Win + A PToys Run / Win + Q Close Window / Win + F shortcut for Firefox
+- FancyZones
+- Disable whats not needed
+- Install Oulook (?)
+- Ease of Use Mouse Hover Focus Window
+- Computer\HKEY_CURRENT_USER\Control Panel\Desktop\ActiveWndTrkTimeout = 0
+- Install Firefox Theme: https://addons.mozilla.org/de/firefox/addon/black/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+- Install Bonjour to Firefox
