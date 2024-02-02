@@ -33,12 +33,17 @@
 - - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/e9484df9-3f2e-4408-8830-de1ed2dc5de4)
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/26714063-6f89-42d2-8062-7e7a8d5fe41b)
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/c8f64e45-9653-45f9-8bbe-8b93deadc262)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/1defe49e-7dfd-4c5d-aabc-cb36b0a2cdc5)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/1d3cdb68-98a8-4693-aca8-32f8d4bbf26b)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/206cb433-337e-4b47-bc7f-3a1f1beda1a0)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/91f16015-647b-4354-92ac-4717f122134e)
+
   - Firefox Shortcut auf STRG+ALT+F
   - VSCode Shortcut auf STRG+ALT+C
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/978aa03c-ccba-4fc5-bffb-4ca7a51dda3a)
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/620fe886-228b-4c03-b5db-e2d81832ed42)
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/477067f4-a5e3-40b7-a6df-2e3f3435613b)
-  - ![Uploading grafik.png…]()
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/f8a51e9d-7076-4fb8-8dc5-abf97f048397)
   - der Rest bleibt im Standard
 
 - Disable whats not needed
