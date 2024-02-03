@@ -24,7 +24,12 @@
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/20a3ebbb-91fd-455e-8351-67f31cec2860)
  
 - Energie Settings
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/5057d509-16bf-4dd4-a95d-4fc8b15b5e29)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/db6020a4-ded1-4e1a-82ac-27f5106c81bd)
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/76edfc12-2178-4b12-81f0-53ab38344cd9)
+
 - Multitasking Settings
+  - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/2c237380-4cef-431a-9df5-4acc21c209d8)
 
 - Download https://github.com/SchnuBby2205/DotFiles/tree/main/usr/share/backgrounds -> into Bilder
 - Download Firefox
@@ -49,8 +54,6 @@
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/f8a51e9d-7076-4fb8-8dc5-abf97f048397)
   - der Rest bleibt im Standard
 
-- Disable whats not needed
-- Install Oulook (?)
 - Ease of Use Mouse Hover Focus Window
 - Computer\HKEY_CURRENT_USER\Control Panel\Desktop\ActiveWndTrkTimeout = 0
 - Firefox Theme: https://addons.mozilla.org/de/firefox/addon/black/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
