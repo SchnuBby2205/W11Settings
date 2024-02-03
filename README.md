@@ -1,8 +1,8 @@
 # W11Settings
 - Install W11
 - Install all Updates
-- Install Git Desktop
-- Clone https://github.com/Sycnex/Windows10Debloater
+- Install Git Desktop (Optional)
+- Download https://github.com/Sycnex/Windows10Debloater
 - Debloat Win11
 - Zeit und Sprache wieder auf Deutsch stellen
 
