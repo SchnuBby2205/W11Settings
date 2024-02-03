@@ -22,6 +22,9 @@
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/77986315-8cb5-4645-b46d-5c2fdf996846)
   - Startleiste
   - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/20a3ebbb-91fd-455e-8351-67f31cec2860)
+ 
+- Energie Settings
+- Multitasking Settings
 
 - Download https://github.com/SchnuBby2205/DotFiles/tree/main/usr/share/backgrounds -> into Bilder
 - Download Firefox
