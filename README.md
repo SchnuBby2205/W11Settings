@@ -50,5 +50,6 @@
 - Install Oulook (?)
 - Ease of Use Mouse Hover Focus Window
 - Computer\HKEY_CURRENT_USER\Control Panel\Desktop\ActiveWndTrkTimeout = 0
-- Install Firefox Theme: https://addons.mozilla.org/de/firefox/addon/black/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-- Install Bonjour to Firefox
+- Firefox Theme: https://addons.mozilla.org/de/firefox/addon/black/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+- Chrome Theme: https://chromewebstore.google.com/detail/all-black-full-dark-theme/mkplpffahhkjfocfbfapcemhhkgmljpn
+- Install Bonjour to Firefox / Chrome
