@@ -1,0 +1,170 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "1.18.4"
+  },
+  "showall": false,
+  "lang": "de",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "usdate": false,
+  "background_blur": 15,
+  "background_bright": 0.8,
+  "background_type": "unsplash",
+  "quicklinks": true,
+  "linkstyle": "small",
+  "linknewtab": false,
+  "linksrow": 6,
+  "linksnlehfg": {
+    "url": "https://github.com/SchnuBby2205",
+    "_id": "linksnlehfg",
+    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+    "order": 3,
+    "title": "Github"
+  },
+  "linksimrjce": {
+    "url": "https://outlook.live.com/mail/0",
+    "_id": "linksimrjce",
+    "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png",
+    "order": 2,
+    "title": "Mail"
+  },
+  "linksnckcne": {
+    "url": "https://www.netflix.com/browse",
+    "_id": "linksnckcne",
+    "icon": "https://cdn0.iconfinder.com/data/icons/logos-21/40/Netflix-512.png",
+    "order": 1,
+    "title": "Netflix"
+  },
+  "linksbnhejq": {
+    "url": "https://web.magentatv.de/tv-guide",
+    "_id": "linksbnhejq",
+    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png",
+    "order": 0,
+    "title": "MagentaTV"
+  },
+  "textShadow": 0.2,
+  "reviewPopup": 22,
+  "cssHeight": 80,
+  "css": "",
+  "hide": {},
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "none",
+    "seconds": false,
+    "size": 1,
+    "style": "round",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "day",
+    "pausedImage": null,
+    "time": 1706954191888
+  },
+  "weather": {
+    "ccode": "DE",
+    "city": "Karlsruhe",
+    "forecast": "auto",
+    "geolocation": "approximate",
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "actual",
+    "unit": "metric"
+  },
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": null,
+    "width": 40
+  },
+  "searchbar": {
+    "on": false,
+    "opacity": 0.1,
+    "engine": "google",
+    "newtab": false,
+    "placeholder": "",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": false,
+    "author": false,
+    "frequency": "day",
+    "last": 1706954191887,
+    "type": "classic",
+    "userlist": []
+  },
+  "font": {
+    "size": "14",
+    "availWeights": [],
+    "family": "",
+    "url": "",
+    "weight": "400"
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "quicklinks"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
