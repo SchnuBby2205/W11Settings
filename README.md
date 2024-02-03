@@ -33,7 +33,7 @@
 
 - Download https://github.com/SchnuBby2205/DotFiles/tree/main/usr/share/backgrounds -> into Bilder
 - Download Firefox
-- Download VSCode -> Default App txt
+- Download VSCode -> Default App txt (Sollte bei Neuinstallation generell passieren)
 
 - Donwload PowerToys (MSStore)
 - Win + A PToys Run / Win + Q Close Window / Win + F shortcut for Firefox
