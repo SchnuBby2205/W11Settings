@@ -1,9 +1,11 @@
 {
+  "usdate": false,
+  "reviewPopup": 22,
   "about": {
-    "browser": "chrome",
-    "version": "1.18.4"
+    "browser": "firefox",
+    "version": "20.2.0"
   },
-  "showall": false,
+  "showall": true,
   "lang": "de",
   "dark": "system",
   "favicon": "",
@@ -13,66 +15,94 @@
   "pagewidth": 1600,
   "time": true,
   "main": true,
-  "usdate": false,
-  "background_blur": 15,
+  "dateformat": "auto",
+  "background_blur": 0,
   "background_bright": 0.8,
   "background_type": "unsplash",
   "quicklinks": true,
+  "syncbookmarks": null,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": 25,
+  "css": "",
+  "hide": {
+    "settingsicon": true,
+    "weatherdesc": true,
+    "weathericon": false,
+    "greetings": true
+  },
   "linkstyle": "small",
+  "linktitles": true,
+  "linkbackgrounds": true,
   "linknewtab": false,
   "linksrow": 6,
-  "linksnlehfg": {
-    "url": "https://github.com/SchnuBby2205",
-    "_id": "linksnlehfg",
-    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
-    "order": 3,
-    "title": "Github"
-  },
-  "linksimrjce": {
-    "url": "https://outlook.live.com/mail/0",
-    "_id": "linksimrjce",
-    "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png",
-    "order": 2,
-    "title": "Mail"
+  "linksbnhejq": {
+    "url": "https://web2.magentatv.de/tv-guide",
+    "_id": "linksbnhejq",
+    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png",
+    "order": 0,
+    "title": "MagentaTV",
+    "parent": "default"
   },
   "linksnckcne": {
     "url": "https://www.netflix.com/browse",
     "_id": "linksnckcne",
     "icon": "https://cdn0.iconfinder.com/data/icons/logos-21/40/Netflix-512.png",
     "order": 1,
-    "title": "Netflix"
+    "title": "Netflix",
+    "parent": "default"
   },
-  "linksbnhejq": {
-    "url": "https://web2.magentatv.de/tv-guide",
-    "_id": "linksbnhejq",
-    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png",
-    "order": 0,
-    "title": "MagentaTV"
+  "linksimrjce": {
+    "url": "https://outlook.live.com/mail/0",
+    "_id": "linksimrjce",
+    "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png",
+    "order": 2,
+    "title": "Mail",
+    "parent": "default"
   },
-  "textShadow": 0.2,
-  "reviewPopup": 22,
-  "cssHeight": 80,
-  "css": "",
-  "hide": {},
+  "linksnlehfg": {
+    "url": "https://github.com/SchnuBby2205",
+    "_id": "linksnlehfg",
+    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+    "order": 3,
+    "title": "Github",
+    "parent": "default"
+  },
+  "linkgroups": {
+    "on": false,
+    "selected": "default",
+    "groups": [
+      "default"
+    ],
+    "pinned": [],
+    "synced": []
+  },
   "clock": {
     "ampm": false,
+    "size": 2.25,
     "analog": false,
-    "face": "none",
     "seconds": false,
-    "size": 1,
-    "style": "round",
-    "timezone": "auto"
+    "timezone": "auto",
+    "ampmlabel": false,
+    "worldclocks": false
   },
+  "analogstyle": {
+    "background": "#fff2",
+    "border": "#ffff",
+    "face": "none",
+    "shape": "round",
+    "hands": "modern"
+  },
+  "worldclocks": [],
   "unsplash": {
+    "every": "tabs",
     "collection": "",
-    "every": "hour",
     "lastCollec": "day",
-    "pausedImage": null,
-    "time": 1706954191888
+    "time": 1731339282024
   },
   "weather": {
     "ccode": "DE",
-    "city": "Karlsruhe",
+    "city": "durlach",
     "forecast": "auto",
     "geolocation": "approximate",
     "moreinfo": "none",
@@ -81,8 +111,8 @@
     "unit": "metric"
   },
   "notes": {
-    "align": "left",
     "on": false,
+    "align": "left",
     "opacity": 0.1,
     "text": null,
     "width": 40
@@ -100,16 +130,16 @@
     "on": false,
     "author": false,
     "frequency": "day",
-    "last": 1706954191887,
+    "last": 1731339086010,
     "type": "classic",
-    "userlist": []
+    "userlist": ""
   },
   "font": {
     "size": "14",
-    "availWeights": [],
     "family": "",
-    "url": "",
-    "weight": "400"
+    "weight": "400",
+    "weightlist": [],
+    "system": false
   },
   "move": {
     "layouts": {
