@@ -3,7 +3,7 @@
   "reviewPopup": 22,
   "about": {
     "browser": "firefox",
-    "version": "20.2.0"
+    "version": "20.2.3"
   },
   "showall": true,
   "lang": "de",
@@ -23,7 +23,7 @@
   "syncbookmarks": null,
   "textShadow": 0.2,
   "announcements": "major",
-  "review": 25,
+  "review": -1,
   "css": "",
   "hide": {
     "settingsicon": true,
@@ -35,38 +35,46 @@
   "linktitles": true,
   "linkbackgrounds": true,
   "linknewtab": false,
-  "linksrow": 6,
-  "linksbnhejq": {
-    "url": "https://web2.magentatv.de/tv-guide",
-    "_id": "linksbnhejq",
-    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png",
-    "order": 0,
-    "title": "MagentaTV",
-    "parent": "default"
-  },
-  "linksnckcne": {
-    "url": "https://www.netflix.com/browse",
-    "_id": "linksnckcne",
-    "icon": "https://cdn0.iconfinder.com/data/icons/logos-21/40/Netflix-512.png",
-    "order": 1,
-    "title": "Netflix",
-    "parent": "default"
+  "linksrow": "3",
+  "linksnlehfg": {
+    "_id": "linksnlehfg",
+    "parent": "default",
+    "order": 4,
+    "title": "Github",
+    "url": "https://github.com/SchnuBby2205",
+    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"
   },
   "linksimrjce": {
-    "url": "https://outlook.live.com/mail/0",
     "_id": "linksimrjce",
-    "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png",
-    "order": 2,
-    "title": "Mail",
-    "parent": "default"
-  },
-  "linksnlehfg": {
-    "url": "https://github.com/SchnuBby2205",
-    "_id": "linksnlehfg",
-    "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+    "parent": "default",
     "order": 3,
-    "title": "Github",
-    "parent": "default"
+    "title": "Mail",
+    "url": "https://outlook.live.com/mail/0",
+    "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png"
+  },
+  "linksnckcne": {
+    "_id": "linksnckcne",
+    "parent": "default",
+    "order": 1,
+    "title": "Netflix",
+    "url": "https://www.netflix.com/browse",
+    "icon": "https://cdn0.iconfinder.com/data/icons/logos-21/40/Netflix-512.png"
+  },
+  "linksbnhejq": {
+    "_id": "linksbnhejq",
+    "parent": "default",
+    "order": 0,
+    "title": "MagentaTV",
+    "url": "https://web2.magentatv.de/tv-guide",
+    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png"
+  },
+  "linkskmkhnr": {
+    "_id": "linkskmkhnr",
+    "parent": "default",
+    "order": 2,
+    "title": "Youtube",
+    "url": "https://www.youtube.com",
+    "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/youtube-512.png"
   },
   "linkgroups": {
     "on": false,
@@ -97,8 +105,8 @@
   "unsplash": {
     "every": "tabs",
     "collection": "",
-    "lastCollec": "day",
-    "time": 1731339282024
+    "lastCollec": "night",
+    "time": 1732738144337
   },
   "weather": {
     "ccode": "DE",
@@ -130,7 +138,7 @@
     "on": false,
     "author": false,
     "frequency": "day",
-    "last": 1731339086010,
+    "last": 1732726643603,
     "type": "classic",
     "userlist": ""
   },
