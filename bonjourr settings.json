@@ -3,7 +3,7 @@
   "reviewPopup": 22,
   "about": {
     "browser": "firefox",
-    "version": "20.2.3"
+    "version": "20.3.0"
   },
   "showall": true,
   "lang": "de",
@@ -23,7 +23,7 @@
   "syncbookmarks": null,
   "textShadow": 0.2,
   "announcements": "major",
-  "review": -1,
+  "review": 29,
   "css": "",
   "hide": {
     "settingsicon": true,
@@ -105,8 +105,8 @@
   "unsplash": {
     "every": "tabs",
     "collection": "",
-    "lastCollec": "night",
-    "time": 1732738144337
+    "lastCollec": "day",
+    "time": 1734085846945
   },
   "weather": {
     "ccode": "DE",
@@ -138,7 +138,7 @@
     "on": false,
     "author": false,
     "frequency": "day",
-    "last": 1732726643603,
+    "last": 1734076364607,
     "type": "classic",
     "userlist": ""
   },
@@ -148,6 +148,10 @@
     "weight": "400",
     "weightlist": [],
     "system": false
+  },
+  "settingssync": {
+    "type": "browser",
+    "freq": "manual"
   },
   "move": {
     "layouts": {
