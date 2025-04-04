@@ -3,14 +3,14 @@
   "reviewPopup": 22,
   "about": {
     "browser": "firefox",
-    "version": "20.3.0"
+    "version": "20.4.2"
   },
   "showall": true,
   "lang": "de",
   "dark": "system",
   "favicon": "",
   "tabtitle": "",
-  "greeting": "",
+  "greeting": "SchnuBby!",
   "pagegap": 1,
   "pagewidth": 1600,
   "time": true,
@@ -23,7 +23,7 @@
   "syncbookmarks": null,
   "textShadow": 0.2,
   "announcements": "major",
-  "review": 29,
+  "review": -1,
   "css": "",
   "hide": {
     "settingsicon": true,
@@ -35,59 +35,90 @@
   "linktitles": true,
   "linkbackgrounds": true,
   "linknewtab": false,
-  "linksrow": "3",
+  "linksrow": "1",
   "linksnlehfg": {
     "_id": "linksnlehfg",
-    "parent": "default",
-    "order": 4,
+    "parent": "linksikaqfr",
+    "order": 1,
     "title": "Github",
     "url": "https://github.com/SchnuBby2205",
     "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"
   },
   "linksimrjce": {
     "_id": "linksimrjce",
-    "parent": "default",
-    "order": 3,
+    "parent": "linksikaqfr",
+    "order": 0,
     "title": "Mail",
     "url": "https://outlook.live.com/mail/0",
     "icon": "https://cdn4.iconfinder.com/data/icons/picons-social/57/57-outlook-2-64.png"
   },
   "linksnckcne": {
     "_id": "linksnckcne",
-    "parent": "default",
-    "order": 1,
+    "parent": "linksoeklei",
+    "order": 2,
     "title": "Netflix",
     "url": "https://www.netflix.com/browse",
     "icon": "https://cdn0.iconfinder.com/data/icons/logos-21/40/Netflix-512.png"
   },
   "linksbnhejq": {
     "_id": "linksbnhejq",
-    "parent": "default",
+    "parent": "linksoeklei",
     "order": 0,
     "title": "MagentaTV",
     "url": "https://web2.magentatv.de/tv-guide",
     "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/640/tv-512.png"
   },
+  "linksikaqfr": {
+    "_id": "linksikaqfr",
+    "parent": "Stream",
+    "order": 1,
+    "title": "Work",
+    "folder": true
+  },
+  "linksoeklei": {
+    "_id": "linksoeklei",
+    "parent": "Stream",
+    "order": 0,
+    "title": "Streaming",
+    "folder": true
+  },
   "linkskmkhnr": {
     "_id": "linkskmkhnr",
-    "parent": "default",
-    "order": 2,
+    "parent": "linksoeklei",
+    "order": 1,
     "title": "Youtube",
     "url": "https://www.youtube.com",
     "icon": "https://cdn3.iconfinder.com/data/icons/font-awesome-brands/576/youtube-512.png"
   },
+  "linksgdelhk": {
+    "_id": "linksgdelhk",
+    "parent": "linksoeklei",
+    "order": 4,
+    "title": "Disney+",
+    "url": "https://www.disneyplus.com/",
+    "icon": "https://cdn4.iconfinder.com/data/icons/religion-science/30/wonderland-512.png"
+  },
+  "linksndnkap": {
+    "_id": "linksndnkap",
+    "parent": "linksoeklei",
+    "order": 3,
+    "title": "Amazon Prime",
+    "url": "https://www.amazon.de/gp/video/storefront",
+    "icon": "https://cdn3.iconfinder.com/data/icons/picons-social/57/27-amazon-512.png"
+  },
   "linkgroups": {
     "on": false,
-    "selected": "default",
+    "selected": "Stream",
     "groups": [
-      "default"
+      "Stream",
+      "Work"
     ],
     "pinned": [],
     "synced": []
   },
   "clock": {
-    "ampm": false,
     "size": 2.25,
+    "ampm": false,
     "analog": false,
     "seconds": false,
     "timezone": "auto",
@@ -106,15 +137,15 @@
     "every": "tabs",
     "collection": "",
     "lastCollec": "day",
-    "time": 1734085846945
+    "time": 1743783377304
   },
   "weather": {
     "ccode": "DE",
     "city": "durlach",
     "forecast": "auto",
     "geolocation": "approximate",
-    "moreinfo": "none",
-    "provider": "",
+    "moreinfo": "custom",
+    "provider": "https://www.wetter.com/",
     "temperature": "actual",
     "unit": "metric"
   },
@@ -138,7 +169,7 @@
     "on": false,
     "author": false,
     "frequency": "day",
-    "last": 1734076364607,
+    "last": 1743720013232,
     "type": "classic",
     "userlist": ""
   },
@@ -149,9 +180,10 @@
     "weightlist": [],
     "system": false
   },
-  "settingssync": {
-    "type": "browser",
-    "freq": "manual"
+  "supporters": {
+    "enabled": true,
+    "closed": true,
+    "month": 4
   },
   "move": {
     "layouts": {
