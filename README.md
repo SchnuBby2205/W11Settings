@@ -5,6 +5,7 @@
 - Download https://github.com/Sycnex/Windows10Debloater
 - Debloat Win11
 - Zeit und Sprache wieder auf Deutsch stellen
+- komorebi, windhawk, yasb testen
 
 - Taskbar Settings:
 - ![grafik](https://github.com/SchnuBby2205/W11Settings/assets/80288097/94c00b7e-405e-4f02-add8-9b8079f419ba)
@@ -56,6 +57,7 @@
 
 - Ease of Use Mouse Hover Focus Window
 - Computer\HKEY_CURRENT_USER\Control Panel\Desktop\ActiveWndTrkTimeout = 0
+
 - Firefox Theme: https://addons.mozilla.org/de/firefox/addon/black/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 - Chrome Theme: https://chromewebstore.google.com/detail/all-black-full-dark-theme/mkplpffahhkjfocfbfapcemhhkgmljpn
 - Install Bonjour to Firefox / Chrome
